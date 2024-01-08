@@ -1,0 +1,17 @@
+/home/joaolevi/projects/sistemas_distribuidos/concurrent_programming_java/miniproject_4/src/main/java/edu/coursera/concurrent/boruvka/parallel/package-info.java
+/home/joaolevi/projects/sistemas_distribuidos/concurrent_programming_java/miniproject_4/src/main/java/edu/coursera/concurrent/boruvka/sequential/SeqBoruvkaFactory.java
+/home/joaolevi/projects/sistemas_distribuidos/concurrent_programming_java/miniproject_4/src/main/java/edu/coursera/concurrent/package-info.java
+/home/joaolevi/projects/sistemas_distribuidos/concurrent_programming_java/miniproject_4/src/main/java/edu/coursera/concurrent/boruvka/sequential/package-info.java
+/home/joaolevi/projects/sistemas_distribuidos/concurrent_programming_java/miniproject_4/src/main/java/edu/coursera/concurrent/boruvka/Edge.java
+/home/joaolevi/projects/sistemas_distribuidos/concurrent_programming_java/miniproject_4/src/main/java/edu/coursera/concurrent/boruvka/package-info.java
+/home/joaolevi/projects/sistemas_distribuidos/concurrent_programming_java/miniproject_4/src/main/java/edu/coursera/concurrent/boruvka/sequential/SeqComponent.java
+/home/joaolevi/projects/sistemas_distribuidos/concurrent_programming_java/miniproject_4/src/main/java/edu/coursera/concurrent/SolutionToBoruvka.java
+/home/joaolevi/projects/sistemas_distribuidos/concurrent_programming_java/miniproject_4/src/main/java/edu/coursera/concurrent/boruvka/sequential/SeqBoruvka.java
+/home/joaolevi/projects/sistemas_distribuidos/concurrent_programming_java/miniproject_4/src/main/java/edu/coursera/concurrent/util/IntPair.java
+/home/joaolevi/projects/sistemas_distribuidos/concurrent_programming_java/miniproject_4/src/main/java/edu/coursera/concurrent/boruvka/BoruvkaFactory.java
+/home/joaolevi/projects/sistemas_distribuidos/concurrent_programming_java/miniproject_4/src/main/java/edu/coursera/concurrent/util/package-info.java
+/home/joaolevi/projects/sistemas_distribuidos/concurrent_programming_java/miniproject_4/src/main/java/edu/coursera/concurrent/AbstractBoruvka.java
+/home/joaolevi/projects/sistemas_distribuidos/concurrent_programming_java/miniproject_4/src/main/java/edu/coursera/concurrent/boruvka/Component.java
+/home/joaolevi/projects/sistemas_distribuidos/concurrent_programming_java/miniproject_4/src/main/java/edu/coursera/concurrent/boruvka/parallel/ParBoruvkaFactory.java
+/home/joaolevi/projects/sistemas_distribuidos/concurrent_programming_java/miniproject_4/src/main/java/edu/coursera/concurrent/boruvka/sequential/SeqEdge.java
+/home/joaolevi/projects/sistemas_distribuidos/concurrent_programming_java/miniproject_4/src/main/java/edu/coursera/concurrent/ParBoruvka.java
